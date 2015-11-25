@@ -1,0 +1,8 @@
+<html>
+<body background= "fondo.jpg">
+<table>
+	<tr><img src="elbueno.jpg"></tr>
+	<tr><img src="mesero.jpg"></tr>	
+</table>
+</body>
+</html>
